@@ -1,0 +1,14 @@
+# BLOOM Dialog Finetuning 50K - Dependencies
+
+# Deep Learning
+torch>=2.0.0
+transformers>=4.32.0
+datasets>=2.14.0
+accelerate>=0.23.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Utils
+tqdm>=4.65.0

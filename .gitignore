@@ -1,0 +1,16 @@
+# Large dataset files
+train_dataset_*/
+*.arrow
+
+# Model files
+*.pth
+*.pt
+*.bin
+*.safetensors
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
